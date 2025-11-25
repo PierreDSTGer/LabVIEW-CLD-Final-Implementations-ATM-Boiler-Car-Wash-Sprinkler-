@@ -19,10 +19,10 @@ The VIs follow **clean architecture**, **state-machine principles**, and **best 
 ## 📂 Repository Structure
 
 Each folder contains only the **final VIs** as presented in the book:
-01 - ATM Example/
-02 - Boiler Example/
-03 - Car Wash Example/
-04 - Sprinkler Controller Example/
+01 - ATM/
+02 - Boiler/
+03 - Car Wash/
+04 - Sprinkler Controller/
 
 
 ---
